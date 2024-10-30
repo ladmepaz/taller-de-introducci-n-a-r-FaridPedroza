@@ -1,8 +1,8 @@
 # Resuelve el ejercicio de acuerdo a lo indicado dentro de la función
 
-solucion <- function() {
+solucion <- function(s) {
   # Asigna un valor a 'a' de manera que el valor asignado a 's' sea 5
-  a <- NULL # asigna valor aquí
+  a <- 25 # asigna valor aquí
   b <- 20  # asigna valor aquí
   s <- a-b
   return(s)
