@@ -6,6 +6,6 @@ solucion <- function(s) {
   b <- 8
   c <- 5
   d <- 3
-  s <- mean(c(a,b,c,d))
+  s <- (a+b+c+d)/4
   return(s)
 }
