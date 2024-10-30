@@ -1,6 +1,6 @@
 # Resuelve el ejercicio de acuerdo a lo indicado dentro de la función
 
-solucion <- function() {
+solucion <- function(s) {
   # Ordena (sin realizar nuevas asignaciones) de manera que se devuelva un valor de 's' diferente a NULL
   s <- NULL
   a <- 10
